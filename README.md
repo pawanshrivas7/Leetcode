@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pawanshrivas7/Leetcode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/pawanshrivas7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0498-diagonal-traverse](https://github.com/pawanshrivas7/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0704-binary-search](https://github.com/pawanshrivas7/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/pawanshrivas7/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Binary Search
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pawanshrivas7/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/pawanshrivas7/Leetcode/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/pawanshrivas7/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
