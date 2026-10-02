@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pawanshrivas7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0498-diagonal-traverse](https://github.com/pawanshrivas7/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0704-binary-search](https://github.com/pawanshrivas7/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/pawanshrivas7/Leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/pawanshrivas7/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Binary Search
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawanshrivas7/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/pawanshrivas7/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
