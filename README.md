@@ -124,4 +124,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/pawanshrivas7/Leetcode/tree/master/0147-insertion-sort-list) |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/pawanshrivas7/Leetcode/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/pawanshrivas7/Leetcode/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/pawanshrivas7/Leetcode/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/pawanshrivas7/Leetcode/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
