@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/pawanshrivas7/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/pawanshrivas7/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/pawanshrivas7/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
