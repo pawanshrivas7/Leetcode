@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawanshrivas7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/pawanshrivas7/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/pawanshrivas7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/pawanshrivas7/Leetcode/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/pawanshrivas7/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/pawanshrivas7/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/pawanshrivas7/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/pawanshrivas7/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pawanshrivas7/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/pawanshrivas7/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
