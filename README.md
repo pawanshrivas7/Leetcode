@@ -149,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pawanshrivas7/Leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pawanshrivas7/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/pawanshrivas7/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pawanshrivas7/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pawanshrivas7/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/pawanshrivas7/Leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pawanshrivas7/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pawanshrivas7/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pawanshrivas7/Leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pawanshrivas7/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/pawanshrivas7/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pawanshrivas7/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,4 +193,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/pawanshrivas7/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pawanshrivas7/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pawanshrivas7/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pawanshrivas7/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
