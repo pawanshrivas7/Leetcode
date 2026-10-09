@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/pawanshrivas7/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/pawanshrivas7/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/pawanshrivas7/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0189-rotate-array/) | Medium |
