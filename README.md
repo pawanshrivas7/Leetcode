@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pawanshrivas7/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pawanshrivas7/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawanshrivas7/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/pawanshrivas7/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0498-diagonal-traverse](https://github.com/pawanshrivas7/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/pawanshrivas7/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/pawanshrivas7/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/pawanshrivas7/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawanshrivas7/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/pawanshrivas7/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
