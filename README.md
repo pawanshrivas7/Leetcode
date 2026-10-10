@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pawanshrivas7/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pawanshrivas7/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pawanshrivas7/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0443-string-compression](https://github.com/pawanshrivas7/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/pawanshrivas7/Leetcode/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawanshrivas7/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawanshrivas7/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/pawanshrivas7/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pawanshrivas7/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/pawanshrivas7/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/pawanshrivas7/Leetcode/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/pawanshrivas7/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/pawanshrivas7/Leetcode/tree/master/2396-strictly-palindromic-number) |
