@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pawanshrivas7/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pawanshrivas7/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pawanshrivas7/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/pawanshrivas7/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/pawanshrivas7/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pawanshrivas7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/pawanshrivas7/Leetcode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/pawanshrivas7/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/pawanshrivas7/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pawanshrivas7/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/pawanshrivas7/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 <!---LeetCode Topics End-->
