@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawanshrivas7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/pawanshrivas7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/pawanshrivas7/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/pawanshrivas7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pawanshrivas7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/pawanshrivas7/Leetcode/tree/master/0283-move-zeroes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pawanshrivas7/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/pawanshrivas7/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/pawanshrivas7/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0877-stone-game](https://github.com/pawanshrivas7/Leetcode/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/pawanshrivas7/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pawanshrivas7/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -254,4 +256,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawanshrivas7/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/pawanshrivas7/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/pawanshrivas7/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/pawanshrivas7/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/pawanshrivas7/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/pawanshrivas7/Leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
