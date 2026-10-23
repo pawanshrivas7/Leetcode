@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pawanshrivas7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/pawanshrivas7/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/pawanshrivas7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pawanshrivas7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/pawanshrivas7/Leetcode/tree/master/0283-move-zeroes) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/pawanshrivas7/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/pawanshrivas7/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/pawanshrivas7/Leetcode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/pawanshrivas7/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawanshrivas7/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pawanshrivas7/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/pawanshrivas7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -276,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/pawanshrivas7/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
