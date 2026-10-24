@@ -200,10 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pawanshrivas7/Leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pawanshrivas7/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pawanshrivas7/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0743-network-delay-time](https://github.com/pawanshrivas7/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pawanshrivas7/Leetcode/tree/master/0100-same-tree) |
+| [0743-network-delay-time](https://github.com/pawanshrivas7/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0743-network-delay-time](https://github.com/pawanshrivas7/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pawanshrivas7/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -301,4 +304,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/pawanshrivas7/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/pawanshrivas7/Leetcode/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/pawanshrivas7/Leetcode/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/pawanshrivas7/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
