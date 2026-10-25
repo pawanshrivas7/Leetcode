@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pawanshrivas7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pawanshrivas7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/pawanshrivas7/Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/pawanshrivas7/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0498-diagonal-traverse](https://github.com/pawanshrivas7/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0621-task-scheduler](https://github.com/pawanshrivas7/Leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/pawanshrivas7/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pawanshrivas7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/pawanshrivas7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pawanshrivas7/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/pawanshrivas7/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/pawanshrivas7/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/pawanshrivas7/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/pawanshrivas7/Leetcode/tree/master/0621-task-scheduler) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pawanshrivas7/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/pawanshrivas7/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/pawanshrivas7/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0621-task-scheduler](https://github.com/pawanshrivas7/Leetcode/tree/master/0621-task-scheduler) |
 ## Ternary Search
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pawanshrivas7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/pawanshrivas7/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/pawanshrivas7/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/pawanshrivas7/Leetcode/tree/master/0621-task-scheduler) |
 | [0905-sort-array-by-parity](https://github.com/pawanshrivas7/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/pawanshrivas7/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pawanshrivas7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/pawanshrivas7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/pawanshrivas7/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pawanshrivas7/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -294,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/pawanshrivas7/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/pawanshrivas7/Leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/pawanshrivas7/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pawanshrivas7/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -301,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/pawanshrivas7/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pawanshrivas7/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 | Problem Name | Difficulty |
@@ -322,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/pawanshrivas7/Leetcode/tree/main/0743-network-delay-time/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/pawanshrivas7/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
