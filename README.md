@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pawanshrivas7/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0498-diagonal-traverse](https://github.com/pawanshrivas7/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0621-task-scheduler](https://github.com/pawanshrivas7/Leetcode/tree/master/0621-task-scheduler) |
+| [0679-24-game](https://github.com/pawanshrivas7/Leetcode/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/pawanshrivas7/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/pawanshrivas7/Leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/pawanshrivas7/Leetcode/tree/master/0766-toeplitz-matrix) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pawanshrivas7/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pawanshrivas7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/pawanshrivas7/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0679-24-game](https://github.com/pawanshrivas7/Leetcode/tree/master/0679-24-game) |
 | [0877-stone-game](https://github.com/pawanshrivas7/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/pawanshrivas7/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2396-strictly-palindromic-number](https://github.com/pawanshrivas7/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pawanshrivas7/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/pawanshrivas7/Leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
