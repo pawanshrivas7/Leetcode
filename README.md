@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/pawanshrivas7/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawanshrivas7/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pawanshrivas7/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawanshrivas7/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawanshrivas7/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pawanshrivas7/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawanshrivas7/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pawanshrivas7/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/pawanshrivas7/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawanshrivas7/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawanshrivas7/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawanshrivas7/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pawanshrivas7/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/pawanshrivas7/Leetcode/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/pawanshrivas7/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pawanshrivas7/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawanshrivas7/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/pawanshrivas7/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/pawanshrivas7/Leetcode/tree/master/0621-task-scheduler) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawanshrivas7/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pawanshrivas7/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pawanshrivas7/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pawanshrivas7/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
