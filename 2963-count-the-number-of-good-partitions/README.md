@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-the-number-of-good-partitions">2963. Count the Number of Good Partitions</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> consisting of <strong>positive</strong> integers.</p>
+<h2><a href="https://leetcode.com/problems/count-the-number-of-good-partitions">3212. Count the Number of Good Partitions</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> consisting of <strong>positive</strong> integers.</p>
 
 <p>A partition of an array into one or more <strong>contiguous</strong> subarrays is called <strong>good</strong> if no two subarrays contain the same number.</p>
 
