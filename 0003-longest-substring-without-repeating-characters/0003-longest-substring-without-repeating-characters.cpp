@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     int lengthOfLongestSubstring(string s) {
         vector<int>  lastSeen(256, -1);
         int left =0;
@@ -11,6 +12,7 @@ public:
             if (lastSeen[c] >=left) {
                 left = lastSeen[c] +1;
             }
+            
             lastSeen[c] = right;
             maxLen = max(maxLen, right-left+1);
         }
