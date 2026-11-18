@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawanshrivas7/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/pawanshrivas7/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pawanshrivas7/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/pawanshrivas7/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3713-longest-balanced-substring-i](https://github.com/pawanshrivas7/Leetcode/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Queue
 |  |
