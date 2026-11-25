@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawanshrivas7/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawanshrivas7/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawanshrivas7/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pawanshrivas7/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pawanshrivas7/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawanshrivas7/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/pawanshrivas7/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/pawanshrivas7/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/pawanshrivas7/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/pawanshrivas7/Leetcode/tree/master/0621-task-scheduler) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pawanshrivas7/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pawanshrivas7/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawanshrivas7/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/pawanshrivas7/Leetcode/tree/main/3713-longest-balanced-substring-i/) | Medium |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/pawanshrivas7/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/pawanshrivas7/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/pawanshrivas7/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pawanshrivas7/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pawanshrivas7/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
