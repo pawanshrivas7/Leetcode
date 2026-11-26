@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/pawanshrivas7/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pawanshrivas7/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/pawanshrivas7/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3360-stone-removal-game](https://github.com/pawanshrivas7/Leetcode/tree/master/3360-stone-removal-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pawanshrivas7/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pawanshrivas7/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pawanshrivas7/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/pawanshrivas7/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pawanshrivas7/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [3360-stone-removal-game](https://github.com/pawanshrivas7/Leetcode/tree/master/3360-stone-removal-game) |
 ## Sliding Window
 |  |
 | ------- |
